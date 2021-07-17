@@ -6,7 +6,7 @@ import java.util.List;
 class Example {
     public static void main(String[] args) {
         List<Student> studentlist = new ArrayList<Student>();
-        studentlist.add(new Student("Jon", 22, 1001));
+        studentlist.add(new Student("Manesh", 22, 1001));
         studentlist.add(new Student("Steve", 19, 1003));
         studentlist.add(new Student("Kevin", 23, 1005));
         studentlist.add(new Student("Ron", 20, 1010));
